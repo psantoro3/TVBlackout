@@ -34,7 +34,7 @@ namespace TVBlackout
                 return;
             }
             // Main update loop, check day of week and current hour
-            // Maximize screen during 
+            // Maximize blank screen during out of office hours
             switch ((int)DateTime.Now.DayOfWeek)
             {
                 case 1:
