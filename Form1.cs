@@ -47,7 +47,7 @@ namespace TVBlackout
                     break;
                 case 0:
                 case 6:
-                    this.WindowState = FormWindowState.Minimized;
+                    this.WindowState = FormWindowState.Maximized;
                     break;
             }
         }
