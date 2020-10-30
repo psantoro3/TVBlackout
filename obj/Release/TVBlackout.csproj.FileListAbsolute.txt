@@ -1,0 +1,9 @@
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\bin\Release\TVBlackout.exe.config
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\bin\Release\TVBlackout.exe
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\bin\Release\TVBlackout.pdb
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.Form1.resources
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.Properties.Resources.resources
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.csproj.GenerateResource.cache
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.csproj.CoreCompileInputs.cache
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.exe
+C:\Users\ALTA Controls\OneDrive - Alta Refrigeration, Inc\Documents\TVBlackout\obj\Release\TVBlackout.pdb
